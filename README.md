@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kuntesv/kuntesv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 **Technical Skills
 **Languages: Java, Go, Spring Boot, NodeJS, C++, C#, TypeScript.
 **Tools:** GitLab, Maven, Docker, Grafana, Kibana.
